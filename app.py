@@ -5,7 +5,7 @@
 заданою датою і поточною датою.
 """
 # comment
-
+# comment 2
 from datetime import datetime, timedelta
 from random import random,randrange
 
