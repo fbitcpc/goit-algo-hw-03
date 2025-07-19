@@ -4,6 +4,7 @@
 яка розраховує кількість днів між 
 заданою датою і поточною датою.
 """
+# comment
 
 from datetime import datetime, timedelta
 from random import random,randrange
